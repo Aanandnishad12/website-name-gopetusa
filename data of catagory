@@ -1,0 +1,175 @@
+[ 
+{ 
+"id":1,
+"category":"Dog TreadWheels",
+"product_url":"https://www.gopetusa.com/product/cg4012-toy-small-breed-treadwheel/",
+"processed":1
+},
+{ 
+"id":2,
+"category":"Dog TreadWheels",
+"product_url":"https://www.gopetusa.com/product/cs4814-small-medium-breed-treadwheel/",
+"processed":1
+},
+{ 
+"id":3,
+"category":"Dog TreadWheels",
+"product_url":"https://www.gopetusa.com/product/cs6020-medium-large-breed-treadwheel/",
+"processed":1
+},
+{ 
+"id":4,
+"category":"Dog TreadWheels",
+"product_url":"https://www.gopetusa.com/product/cs8022-large-breed-treadwheel/",
+"processed":1
+},
+{ 
+"id":5,
+"category":"TreadMills",
+"product_url":"https://www.gopetusa.com/product/pr700-toy-breed-treadmill/",
+"processed":1
+},
+{ 
+"id":6,
+"category":"TreadMills",
+"product_url":"https://www.gopetusa.com/product/pr710f-toy-small-breed-treadmill/",
+"processed":1
+},
+{ 
+"id":7,
+"category":"TreadMills",
+"product_url":"https://www.gopetusa.com/product/pr720f-small-medium-breed-treadmill/",
+"processed":1
+},
+{ 
+"id":8,
+"category":"TreadMills",
+"product_url":"https://www.gopetusa.com/product/pr725-large-breed-treadmill/",
+"processed":1
+},
+{ 
+"id":9,
+"category":"TreadMills",
+"product_url":"https://www.gopetusa.com/product/pr730-giant-breed-model-pr730-treadmill/",
+"processed":1
+},
+{ 
+"id":10,
+"category":"Cat TreadWheels",
+"product_url":"https://www.gopetusa.com/product/cg4012-cat-treadwheel/",
+"processed":1
+},
+{ 
+"id":11,
+"category":"Kennel Decks",
+"product_url":"https://www.gopetusa.com/product/e-fsp24-kennel-deck/",
+"processed":1
+},
+{ 
+"id":12,
+"category":"Dog Vue Doors",
+"product_url":"https://www.gopetusa.com/product/ddv-1015-dog-vue-kennel-door/",
+"processed":1
+},
+{ 
+"id":13,
+"category":"Dog Vue Doors",
+"product_url":"https://www.gopetusa.com/product/ddv-1218-dog-vue-kennel-door/",
+"processed":1
+},
+{ 
+"id":14,
+"category":"Dog Vue Doors",
+"product_url":"https://www.gopetusa.com/product/ddv-1419-14-x-19-dog-vue-kennel-door/",
+"processed":1
+},
+{ 
+"id":15,
+"category":"Dog Vue Doors",
+"product_url":"https://www.gopetusa.com/product/ddv-1521-dog-vue-kennel-door/",
+"processed":1
+},
+{ 
+"id":16,
+"category":"Dog Vue Doors",
+"product_url":"https://www.gopetusa.com/product/ddv-1720-dog-vue-kennel-door/",
+"processed":1
+},
+{ 
+"id":17,
+"category":"Dog Vue Doors",
+"product_url":"https://www.gopetusa.com/product/ddv-1724-dog-vue-kennel-door/",
+"processed":1
+},
+{ 
+"id":18,
+"category":"Dog Vue Doors",
+"product_url":"https://www.gopetusa.com/product/ddv-1828-dog-vue-kennel-door/",
+"processed":1
+},
+{ 
+"id":19,
+"category":"Dog Vue Doors",
+"product_url":"https://www.gopetusa.com/product/dds-1-dog-vue-trainer-stop/",
+"processed":1
+},
+{ 
+"id":20,
+"category":"Dog Vue Doors",
+"product_url":"https://www.gopetusa.com/product/ddt-1015-trim-kit/",
+"processed":1
+},
+{ 
+"id":21,
+"category":"Dog Vue Doors",
+"product_url":"https://www.gopetusa.com/product/ddt-1218-trim-kit/",
+"processed":1
+},
+{ 
+"id":22,
+"category":"Dog Vue Doors",
+"product_url":"https://www.gopetusa.com/product/ddt-1419-trim-kit-for-14-x-19-door/",
+"processed":1
+},
+{ 
+"id":23,
+"category":"Dog Vue Doors",
+"product_url":"https://www.gopetusa.com/product/ddt-1521-trim-kit/",
+"processed":1
+},
+{ 
+"id":24,
+"category":"Dog Vue Doors",
+"product_url":"https://www.gopetusa.com/product/ddt-1720-trim-kit/",
+"processed":1
+},
+{ 
+"id":25,
+"category":"Dog Vue Doors",
+"product_url":"https://www.gopetusa.com/product/ddt-1724-trim-kit/",
+"processed":1
+},
+{ 
+"id":26,
+"category":"Dog Vue Doors",
+"product_url":"https://www.gopetusa.com/product/ddt-1828-trim-kit/",
+"processed":1
+},
+{ 
+"id":27,
+"category":"Dog Houses",
+"product_url":"https://www.gopetusa.com/product/dogeden-60k-kennel-series/",
+"processed":1
+},
+{ 
+"id":28,
+"category":"Dog Houses",
+"product_url":"https://www.gopetusa.com/product/dogeden-60a-with-anchor/",
+"processed":1
+},
+{ 
+"id":29,
+"category":"Dog Houses",
+"product_url":"https://www.gopetusa.com/product/tie-out-anchor-for-dogeden/",
+"processed":1
+}]
